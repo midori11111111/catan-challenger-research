@@ -1,0 +1,24 @@
+{
+  "passed": true,
+  "checkedAt": "2026-11-01T00:48:21.634240+00:00",
+  "games": 1200,
+  "errors": 0,
+  "distinctSeeds": 1200,
+  "distinctBoards": 1200,
+  "allSeatPairsBalanced": true,
+  "allWinnersVerified": true,
+  "resourceConservationVerified": true,
+  "developmentCardConservationVerified": true,
+  "roadPieceLimitsVerified": true,
+  "sourceHashesVerified": true,
+  "multipleTenPointTerminalGameIds": [],
+  "roadAwardBelowFiveGameIds": [
+    24
+  ],
+  "roadRuleAdaptations": 237,
+  "decisions": 181276,
+  "protocolSha256": "5012c56a36b12210eea6c369d20e8ebd61005522f74bfcb87f549046aa548977",
+  "resultsSha256": "4634815e3bd07ca24dec7984267ea7aabda9a97d566ff5b5037ad4a99f71d575",
+  "gameArchiveSha256": "55541a375287de4048fcd29ced9276b228635dbf2e48a9dc89384dccb0335bdf",
+  "productionUpdated": false
+}

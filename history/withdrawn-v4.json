@@ -1,0 +1,51 @@
+{
+  "status": "withdrawn-in-full",
+  "originalPlannedGames": 3600,
+  "completedGames": 2714,
+  "invalidGames": 1,
+  "reason": "Hidden-VP sampling could create a phantom terminal root, prematurely ending native AlphaBeta search. One transport timeout also occurred. No v4 observation is pooled with v5.",
+  "groups": [
+    {
+      "generation": "gen0",
+      "opponent": "AB_FULL",
+      "status": "completed",
+      "games": 600
+    },
+    {
+      "generation": "gen0",
+      "opponent": "F",
+      "status": "completed",
+      "games": 600
+    },
+    {
+      "generation": "gen1",
+      "opponent": "AB_FULL",
+      "status": "completed",
+      "games": 600
+    },
+    {
+      "generation": "gen1",
+      "opponent": "F",
+      "status": "completed",
+      "games": 600
+    },
+    {
+      "generation": "gen2",
+      "opponent": "AB_FULL",
+      "status": "completed",
+      "games": 314
+    },
+    {
+      "generation": "gen2",
+      "opponent": "AB_FULL",
+      "status": "error",
+      "games": 1
+    }
+  ],
+  "planSha256": "2deddf633692863f508b8adf3eb9e13e52c2293212916ccceb2089e0c06d5725",
+  "resultsSha256": "1d7cab2983fe94284083f442d16f89eae1301e2452b2227e900d5387a4bcd16c",
+  "regressionFixture": "fixtures/nonterminal-belief-diagnostic.json",
+  "codeSnapshot": "history/protocol-v4-source",
+  "rawArchiveIncludedInRelease": false,
+  "rawArchivePreservedLocally": true
+}

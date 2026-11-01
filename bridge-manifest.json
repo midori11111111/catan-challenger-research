@@ -1,0 +1,23 @@
+{
+  "created": "2026-10-31T22:40:35.492434+00:00",
+  "files": {
+    "engine.js": "3282fbea186a39c0c7900d4de700a04124908facfe930fb4015d5b689edaabb2",
+    "app.js": "6c2af7d282d86d02836c587d0009ca22e83aebb3c4146236976774f60c903966",
+    "setup-learning-model.js": "2b35eac8d7c97949bfeef062f0a55ca6a9f0a0274d823f9731919b616312a470",
+    "setup-learning.js": "30c9be8b8c599c522c5715db1846726a0927660b9ef68c72a587d3aaba4d79d2",
+    "headless-driver.js": "f8febd85cb474fa9a56c7b98b7f02f94df868923ac8ee9b07878741c8ff9fead",
+    "policy-config.js": "4156aa5120a3347d328553a1a1688c3cb9065af218ebfe0826915f4c6599bf8b"
+  },
+  "upstreamCommit": "ecf931181b9a65bb4116a2153fb78c16f1438e00",
+  "adapterFiles": {
+    "runtime.js": "a38387fd44c6fa772a081dd9ae3507ac056e692421783e439bc676e3527768da",
+    "driver.js": "4da03e5d2295b8d1b06daa1a1b834899cd639e3e22aa50d89c32e43a3a218ce8",
+    "conversion.js": "865649ce566d3f8277a29c8c2165543f6427a94e70ac5bf2cf11004c603756f7",
+    "bot.js": "68b32e130bbaf95eb7effceb463f493ff3cb2cd82d1ed3e79d746964b5bc5a35",
+    "run.py": "fcdf3574aac404ec2cd0788580e4d341b7be1bac32536ce656816b229e707a16",
+    "verify.py": "3b7e8b8d110c37703cff3a3d538f059814709e1bd38779b1369731f740ce4e7f"
+  },
+  "priorPilotDriverSha256": "d7e3445127317fab58ac7cb5741dafb557ff20a7a67a213e176625ed673e0127",
+  "adapterRevision": "v5: physical setup roads; legal road resolution; nonterminal-constrained hidden VP beliefs; suspension-tolerant 120-second active response wait",
+  "sourceReference": "https://catan-challenger-online.vercel.app/"
+}

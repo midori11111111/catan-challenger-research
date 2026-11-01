@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "Please cite the accompanying technical report and pin the artifact version and source hashes."
+title: "Catan Challenger: Evaluating a Heuristic Policy with Learned Opening Rankings against Catanatron"
+authors:
+  - family-names: "midori11111111"
+version: "0.1.0"
+date-released: "2026-10-31"
+type: software
+license: GPL-3.0-or-later
+url: "https://github.com/midori11111111/catan-challenger-research"
+repository-code: "https://github.com/midori11111111/catan-challenger-research"
+abstract: "A fixed-budget, reproducible external evaluation of a human-informed Catan policy with learned opening rankings, including frozen models, an audited bridge, and synthetic game records."

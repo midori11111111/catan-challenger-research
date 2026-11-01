@@ -1,0 +1,13 @@
+'use strict';
+const fs=require('node:fs'),path=require('node:path'),Module=require('node:module'),crypto=require('node:crypto');
+const manifest=JSON.parse(fs.readFileSync(path.join(__dirname,'manifest.json')));
+const read=name=>{const s=fs.readFileSync(path.join(__dirname,'frozen',name),'utf8');if(crypto.createHash('sha256').update(s).digest('hex')!==manifest.files[name])throw Error('Frozen source changed: '+name);return s;};
+const prelude=`const Math=Object.create(globalThis.Math);
+const document={getElementById:()=>null,querySelector:()=>null,createElement:()=>({})};
+const window={addEventListener:()=>{}};
+let seatAI={1:'strong',2:'strong',3:'strong',4:'strong'};
+`;
+const mod=new Module(path.join(__dirname,'compiled.cjs'));
+mod.filename=path.join(__dirname,'compiled.cjs');mod.paths=Module._nodeModulePaths(__dirname);
+mod._compile(prelude+read('engine.js')+'\n'+read('policy-config.js')+'\n'+read('setup-learning-model.js')+'\n'+read('setup-learning.js')+'\n'+read('headless-driver.js')+'\n'+fs.readFileSync(path.join(__dirname,'driver.js'),'utf8'),mod.filename);
+module.exports=mod.exports;

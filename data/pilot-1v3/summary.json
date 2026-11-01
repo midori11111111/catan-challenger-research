@@ -1,0 +1,194 @@
+[
+  {
+    "generation": "gen0",
+    "opponent": "AB",
+    "games": 32,
+    "wins": 18,
+    "winRate": 0.5625,
+    "ci95": [
+      0.3932530203122613,
+      0.7183491403055682
+    ],
+    "errors": 0,
+    "averageRolls": 74.65625,
+    "seconds": 70.74143554270267,
+    "seats": {
+      "1": {
+        "games": 8,
+        "wins": 4
+      },
+      "2": {
+        "games": 8,
+        "wins": 4
+      },
+      "3": {
+        "games": 8,
+        "wins": 5
+      },
+      "4": {
+        "games": 8,
+        "wins": 5
+      }
+    }
+  },
+  {
+    "generation": "gen0",
+    "opponent": "F",
+    "games": 32,
+    "wins": 16,
+    "winRate": 0.5,
+    "ci95": [
+      0.33630614316859386,
+      0.6636938568314061
+    ],
+    "errors": 0,
+    "averageRolls": 83.84375,
+    "seconds": 51.93371179141104,
+    "seats": {
+      "1": {
+        "games": 8,
+        "wins": 6
+      },
+      "2": {
+        "games": 8,
+        "wins": 3
+      },
+      "3": {
+        "games": 8,
+        "wins": 3
+      },
+      "4": {
+        "games": 8,
+        "wins": 4
+      }
+    }
+  },
+  {
+    "generation": "gen1",
+    "opponent": "AB",
+    "games": 32,
+    "wins": 20,
+    "winRate": 0.625,
+    "ci95": [
+      0.45254100589525126,
+      0.7706633153404079
+    ],
+    "errors": 0,
+    "averageRolls": 82.0,
+    "seconds": 76.2995844995603,
+    "seats": {
+      "1": {
+        "games": 8,
+        "wins": 3
+      },
+      "2": {
+        "games": 8,
+        "wins": 6
+      },
+      "3": {
+        "games": 8,
+        "wins": 5
+      },
+      "4": {
+        "games": 8,
+        "wins": 6
+      }
+    }
+  },
+  {
+    "generation": "gen1",
+    "opponent": "F",
+    "games": 32,
+    "wins": 17,
+    "winRate": 0.53125,
+    "ci95": [
+      0.3644923793257382,
+      0.6913087009831766
+    ],
+    "errors": 0,
+    "averageRolls": 82.96875,
+    "seconds": 55.80962512479164,
+    "seats": {
+      "1": {
+        "games": 8,
+        "wins": 6
+      },
+      "2": {
+        "games": 8,
+        "wins": 4
+      },
+      "3": {
+        "games": 8,
+        "wins": 5
+      },
+      "4": {
+        "games": 8,
+        "wins": 2
+      }
+    }
+  },
+  {
+    "generation": "gen2",
+    "opponent": "AB",
+    "games": 32,
+    "wins": 16,
+    "winRate": 0.5,
+    "ci95": [
+      0.33630614316859386,
+      0.6636938568314061
+    ],
+    "errors": 0,
+    "averageRolls": 78.625,
+    "seconds": 71.95511704217643,
+    "seats": {
+      "1": {
+        "games": 8,
+        "wins": 2
+      },
+      "2": {
+        "games": 8,
+        "wins": 4
+      },
+      "3": {
+        "games": 8,
+        "wins": 4
+      },
+      "4": {
+        "games": 8,
+        "wins": 6
+      }
+    }
+  },
+  {
+    "generation": "gen2",
+    "opponent": "F",
+    "games": 32,
+    "wins": 18,
+    "winRate": 0.5625,
+    "ci95": [
+      0.3932530203122613,
+      0.7183491403055682
+    ],
+    "errors": 0,
+    "averageRolls": 82.5,
+    "seconds": 51.41842454741709,
+    "seats": {
+      "1": {
+        "games": 8,
+        "wins": 6
+      },
+      "2": {
+        "games": 8,
+        "wins": 4
+      },
+      "3": {
+        "games": 8,
+        "wins": 3
+      },
+      "4": {
+        "games": 8,
+        "wins": 5
+      }
+    }
+  }
+]

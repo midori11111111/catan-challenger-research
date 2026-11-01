@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg
+  PUBLIC '-//W3C//DTD SVG 1.0//EN'
+  'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<svg width="491.27559055118115" height="152" preserveAspectRatio="xMinYMin meet" viewBox="0 0 491 152" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>...</title>
+	<desc>...</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="491.27559055118115" height="152"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-152)" style="clip-path: url(#clip)">
+		<g transform="">
+			<rect x="0" y="96" width="491.27559055118115" height="43" rx="3" ry="0" style="stroke: rgb(78%,81%,83%); stroke-linecap: butt; stroke-width: 0.6; fill: rgb(90%,94%,93%); fill-rule: evenodd;"/>
+			<text x="159.05679527559056" y="125" style="font-family: Helvetica; font-size: 8.5px;fill: rgb(8%,14%,17%); stroke:none;" transform="translate(0,250) scale(1,-1)">Own hand + public board / totals / card counts</text>
+			<text x="150.90954527559057" y="113" style="font-family: Helvetica; font-size: 8.5px;fill: rgb(8%,14%,17%); stroke:none;" transform="translate(0,226) scale(1,-1)">Independent information projection for each player</text>
+			<rect x="0" y="30" width="235.63779527559058" height="44" rx="3" ry="0" style="stroke: rgb(78%,81%,83%); stroke-linecap: butt; stroke-width: 0.6; fill: rgb(90%,94%,93%); fill-rule: evenodd;"/>
+			<text x="91.60064763779529" y="60" style="font-family: Helvetica; font-size: 8.5px;fill: rgb(8%,14%,17%); stroke:none;" transform="translate(0,120) scale(1,-1)">Challenger x2</text>
+			<text x="40.923647637795284" y="48" style="font-family: Helvetica; font-size: 8.5px;fill: rgb(8%,14%,17%); stroke:none;" transform="translate(0,96) scale(1,-1)">Learned opening ranks + published rules</text>
+			<rect x="255.63779527559058" y="30" width="235.63779527559058" height="44" rx="3" ry="0" style="stroke: rgb(78%,81%,83%); stroke-linecap: butt; stroke-width: 0.6; fill: rgb(90%,94%,93%); fill-rule: evenodd;"/>
+			<text x="346.7624429133858" y="60" style="font-family: Helvetica; font-size: 8.5px;fill: rgb(8%,14%,17%); stroke:none;" transform="translate(0,120) scale(1,-1)">Catanatron x2</text>
+			<text x="285.10344291338583" y="48" style="font-family: Helvetica; font-size: 8.5px;fill: rgb(8%,14%,17%); stroke:none;" transform="translate(0,96) scale(1,-1)">Unpruned depth-2 AlphaBeta or ValueFunction</text>
+			<path d="M 122.818898,96 L 122.818898,75 Z" style="stroke: rgb(32%,38%,41%); stroke-linecap: butt; stroke-width: 0.8;"/>
+			<polygon points="122.8189 75, 124.9937 79.50224, 120.6441 79.50224" style="stroke: rgb(32%,38%,41%); stroke-linecap: butt; stroke-width: 1; fill: rgb(32%,38%,41%); fill-rule: evenodd;"/>
+			<path d="M 368.456693,96 L 368.456693,75 Z" style="stroke: rgb(32%,38%,41%); stroke-linecap: butt; stroke-width: 0.8;"/>
+			<polygon points="368.4567 75, 370.6315 79.50224, 366.2819 79.50224" style="stroke: rgb(32%,38%,41%); stroke-linecap: butt; stroke-width: 1; fill: rgb(32%,38%,41%); fill-rule: evenodd;"/>
+			<text x="115.84519527559056" y="6" style="font-family: Helvetica; font-size: 8.4px;fill: rgb(32%,38%,41%); stroke:none;" transform="translate(0,12) scale(1,-1)">Legal action -&gt; Catanatron rules engine -&gt; recorded terminal outcome</text>
+			<path d="M 122.818898,30 L 122.818898,18 Z" style="stroke: rgb(32%,38%,41%); stroke-linecap: butt; stroke-width: 0.8;"/>
+			<polygon points="122.8189 18, 124.9937 22.50224, 120.6441 22.50224" style="stroke: rgb(32%,38%,41%); stroke-linecap: butt; stroke-width: 1; fill: rgb(32%,38%,41%); fill-rule: evenodd;"/>
+			<path d="M 368.456693,30 L 368.456693,18 Z" style="stroke: rgb(32%,38%,41%); stroke-linecap: butt; stroke-width: 0.8;"/>
+			<polygon points="368.4567 18, 370.6315 22.50224, 366.2819 22.50224" style="stroke: rgb(32%,38%,41%); stroke-linecap: butt; stroke-width: 1; fill: rgb(32%,38%,41%); fill-rule: evenodd;"/>
+		</g>
+	</g>
+</svg>

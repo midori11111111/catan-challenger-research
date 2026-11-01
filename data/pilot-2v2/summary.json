@@ -1,0 +1,248 @@
+[
+  {
+    "generation": "gen0",
+    "opponent": "AB",
+    "games": 48,
+    "errors": 0,
+    "neutralWinRate": 0.5,
+    "wins": 34,
+    "winRate": 0.7083333333333334,
+    "ci95": [
+      0.5682047226383246,
+      0.8175858393813663
+    ],
+    "averageRolls": 79.60416666666667,
+    "seconds": 148.46481116767973,
+    "seatPairs": {
+      "1,2": {
+        "games": 8,
+        "wins": 5
+      },
+      "1,3": {
+        "games": 8,
+        "wins": 4
+      },
+      "1,4": {
+        "games": 8,
+        "wins": 5
+      },
+      "2,3": {
+        "games": 8,
+        "wins": 8
+      },
+      "2,4": {
+        "games": 8,
+        "wins": 4
+      },
+      "3,4": {
+        "games": 8,
+        "wins": 8
+      }
+    }
+  },
+  {
+    "generation": "gen0",
+    "opponent": "F",
+    "games": 48,
+    "errors": 0,
+    "neutralWinRate": 0.5,
+    "wins": 33,
+    "winRate": 0.6875,
+    "ci95": [
+      0.5466666274950367,
+      0.800544878322685
+    ],
+    "averageRolls": 79.9375,
+    "seconds": 128.7763891625218,
+    "seatPairs": {
+      "1,2": {
+        "games": 8,
+        "wins": 5
+      },
+      "1,3": {
+        "games": 8,
+        "wins": 5
+      },
+      "1,4": {
+        "games": 8,
+        "wins": 7
+      },
+      "2,3": {
+        "games": 8,
+        "wins": 6
+      },
+      "2,4": {
+        "games": 8,
+        "wins": 6
+      },
+      "3,4": {
+        "games": 8,
+        "wins": 4
+      }
+    }
+  },
+  {
+    "generation": "gen1",
+    "opponent": "AB",
+    "games": 48,
+    "errors": 0,
+    "neutralWinRate": 0.5,
+    "wins": 36,
+    "winRate": 0.75,
+    "ci95": [
+      0.6121535625207293,
+      0.8507951119028996
+    ],
+    "averageRolls": 79.16666666666667,
+    "seconds": 148.53897766559385,
+    "seatPairs": {
+      "1,2": {
+        "games": 8,
+        "wins": 6
+      },
+      "1,3": {
+        "games": 8,
+        "wins": 6
+      },
+      "1,4": {
+        "games": 8,
+        "wins": 7
+      },
+      "2,3": {
+        "games": 8,
+        "wins": 5
+      },
+      "2,4": {
+        "games": 8,
+        "wins": 5
+      },
+      "3,4": {
+        "games": 8,
+        "wins": 7
+      }
+    }
+  },
+  {
+    "generation": "gen1",
+    "opponent": "F",
+    "games": 48,
+    "errors": 0,
+    "neutralWinRate": 0.5,
+    "wins": 41,
+    "winRate": 0.8541666666666666,
+    "ci95": [
+      0.7283255295714138,
+      0.9275184258620602
+    ],
+    "averageRolls": 76.91666666666667,
+    "seconds": 122.48713950021192,
+    "seatPairs": {
+      "1,2": {
+        "games": 8,
+        "wins": 6
+      },
+      "1,3": {
+        "games": 8,
+        "wins": 7
+      },
+      "1,4": {
+        "games": 8,
+        "wins": 8
+      },
+      "2,3": {
+        "games": 8,
+        "wins": 8
+      },
+      "2,4": {
+        "games": 8,
+        "wins": 6
+      },
+      "3,4": {
+        "games": 8,
+        "wins": 6
+      }
+    }
+  },
+  {
+    "generation": "gen2",
+    "opponent": "AB",
+    "games": 48,
+    "errors": 0,
+    "neutralWinRate": 0.5,
+    "wins": 36,
+    "winRate": 0.75,
+    "ci95": [
+      0.6121535625207293,
+      0.8507951119028996
+    ],
+    "averageRolls": 82.5,
+    "seconds": 156.5134491659701,
+    "seatPairs": {
+      "1,2": {
+        "games": 8,
+        "wins": 8
+      },
+      "1,3": {
+        "games": 8,
+        "wins": 5
+      },
+      "1,4": {
+        "games": 8,
+        "wins": 6
+      },
+      "2,3": {
+        "games": 8,
+        "wins": 5
+      },
+      "2,4": {
+        "games": 8,
+        "wins": 6
+      },
+      "3,4": {
+        "games": 8,
+        "wins": 6
+      }
+    }
+  },
+  {
+    "generation": "gen2",
+    "opponent": "F",
+    "games": 48,
+    "errors": 0,
+    "neutralWinRate": 0.5,
+    "wins": 38,
+    "winRate": 0.7916666666666666,
+    "ci95": [
+      0.6574082647864651,
+      0.8826985220411018
+    ],
+    "averageRolls": 80.66666666666667,
+    "seconds": 129.2980797511991,
+    "seatPairs": {
+      "1,2": {
+        "games": 8,
+        "wins": 8
+      },
+      "1,3": {
+        "games": 8,
+        "wins": 7
+      },
+      "1,4": {
+        "games": 8,
+        "wins": 7
+      },
+      "2,3": {
+        "games": 8,
+        "wins": 4
+      },
+      "2,4": {
+        "games": 8,
+        "wins": 6
+      },
+      "3,4": {
+        "games": 8,
+        "wins": 6
+      }
+    }
+  }
+]

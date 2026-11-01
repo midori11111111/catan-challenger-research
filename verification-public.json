@@ -1,0 +1,40 @@
+{
+  "hiddenResourceSwapInvariant": true,
+  "hiddenDevCompositionInvariant": true,
+  "futureRngHidden": true,
+  "nativeSearchDoesNotChangeRealStateOrDiceRng": true,
+  "geometryBoards": 12,
+  "portsChecked": 108,
+  "setupSnapshots": 192,
+  "allEightSetupSeatsVerified": true,
+  "ownHandsExact": true,
+  "roadRegressions": [
+    {
+      "fixture": "road-before-win",
+      "action": [
+        "BLUE",
+        "BUILD_ROAD",
+        [
+          16,
+          21
+        ]
+      ],
+      "passed": true
+    },
+    {
+      "fixture": "road-card-unavailable",
+      "action": [
+        "BLUE",
+        "MARITIME_TRADE",
+        [
+          "SHEEP",
+          "SHEEP",
+          "SHEEP",
+          "SHEEP",
+          "ORE"
+        ]
+      ],
+      "passed": true
+    }
+  ]
+}

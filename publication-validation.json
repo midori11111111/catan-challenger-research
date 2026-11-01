@@ -1,0 +1,23 @@
+{
+  "passed": true,
+  "checkedAt": "2026-11-01T00:48:54.548392+00:00",
+  "pdfSha256": {
+    "output/pdf/catan-challenger-report.en.pdf": "686f084f8ae4afae6b6f246a5abc9203d5d65d78b0e659554b3463b1bc6b5786",
+    "output/pdf/catan-challenger-report.ja.pdf": "5534d192193c97d292fd373ac54c8509ced15514a109eb97717616e8bf16ff20"
+  },
+  "reports": {
+    "en": {
+      "pages": 5,
+      "allPagesVisuallyReviewed": true,
+      "textAndMeasuredResultsMatch": true,
+      "linksChecked": 5
+    },
+    "ja": {
+      "pages": 5,
+      "allPagesVisuallyReviewed": true,
+      "textAndMeasuredResultsMatch": true,
+      "linksChecked": 5
+    }
+  },
+  "productionUpdated": false
+}

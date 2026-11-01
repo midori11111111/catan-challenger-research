@@ -1,0 +1,8 @@
+{
+  "hiddenResourceSwapInvariant": true,
+  "hiddenDevCompositionInvariant": true,
+  "futureRngHidden": true,
+  "nativeSearchDoesNotChangeRealStateOrDiceRng": true,
+  "geometryBoards": 12,
+  "portsChecked": 108
+}

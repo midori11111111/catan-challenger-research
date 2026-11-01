@@ -1,0 +1,13 @@
+{
+  "created": "2026-10-31T22:40:35.492434+00:00",
+  "files": {
+    "engine.js": "3282fbea186a39c0c7900d4de700a04124908facfe930fb4015d5b689edaabb2",
+    "app.js": "6c2af7d282d86d02836c587d0009ca22e83aebb3c4146236976774f60c903966",
+    "setup-learning-model.js": "2b35eac8d7c97949bfeef062f0a55ca6a9f0a0274d823f9731919b616312a470",
+    "setup-learning.js": "30c9be8b8c599c522c5715db1846726a0927660b9ef68c72a587d3aaba4d79d2",
+    "headless-driver.js": "f8febd85cb474fa9a56c7b98b7f02f94df868923ac8ee9b07878741c8ff9fead",
+    "policy-config.js": "4156aa5120a3347d328553a1a1688c3cb9065af218ebfe0826915f4c6599bf8b"
+  },
+  "upstreamCommit": "ecf931181b9a65bb4116a2153fb78c16f1438e00",
+  "sourceReference": "https://catan-challenger-online.vercel.app/"
+}

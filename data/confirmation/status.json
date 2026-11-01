@@ -1,0 +1,12 @@
+{
+  "status": "completed",
+  "completed": 1200,
+  "planned": 1200,
+  "errors": 0,
+  "workers": 12,
+  "pid": 6934,
+  "gamesPerSecond": 1.451,
+  "etaMinutes": 0.0,
+  "updated": "2026-11-01T00:48:15.114156+00:00",
+  "productionUpdated": false
+}

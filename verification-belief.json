@@ -1,0 +1,15 @@
+{
+  "passed": true,
+  "nativeBeliefSamples": 512,
+  "challengerBeliefSamples": 64,
+  "phantomTerminalRoots": 0,
+  "realStateUnchanged": true,
+  "regression": {
+    "gameId": 4,
+    "actionIndex": 172,
+    "perspective": "WHITE",
+    "beliefSeed": 772407,
+    "actualWinner": null,
+    "sampledFalseWinner": "RED"
+  }
+}

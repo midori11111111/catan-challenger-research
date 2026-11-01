@@ -1,0 +1,36 @@
+{
+  "passed": true,
+  "exactRngStateCompared": true,
+  "probes": [
+    {
+      "seed": 531031,
+      "phase": "setup",
+      "nativeAndChallengerPreserveStateAndExactRng": true
+    },
+    {
+      "seed": 531031,
+      "phase": "main",
+      "nativeAndChallengerPreserveStateAndExactRng": true
+    },
+    {
+      "seed": 531032,
+      "phase": "setup",
+      "nativeAndChallengerPreserveStateAndExactRng": true
+    },
+    {
+      "seed": 531032,
+      "phase": "main",
+      "nativeAndChallengerPreserveStateAndExactRng": true
+    },
+    {
+      "seed": 531033,
+      "phase": "setup",
+      "nativeAndChallengerPreserveStateAndExactRng": true
+    },
+    {
+      "seed": 531033,
+      "phase": "main",
+      "nativeAndChallengerPreserveStateAndExactRng": true
+    }
+  ]
+}

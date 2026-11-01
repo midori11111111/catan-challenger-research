@@ -1,0 +1,2006 @@
+{
+  "pieceCountsAndPublicScoresMatch": true,
+  "reconstructedHandCountsAndBankTotalsMatch": true,
+  "games": 1200,
+  "playerViews": 4800,
+  "nativeVsExactRoadLengthDifferences": [
+    {
+      "id": 2,
+      "seat": 4,
+      "exactTrail": 3,
+      "nativeCached": 2
+    },
+    {
+      "id": 0,
+      "seat": 1,
+      "exactTrail": 5,
+      "nativeCached": 4
+    },
+    {
+      "id": 0,
+      "seat": 3,
+      "exactTrail": 7,
+      "nativeCached": 6
+    },
+    {
+      "id": 13,
+      "seat": 3,
+      "exactTrail": 7,
+      "nativeCached": 6
+    },
+    {
+      "id": 16,
+      "seat": 2,
+      "exactTrail": 7,
+      "nativeCached": 6
+    },
+    {
+      "id": 24,
+      "seat": 1,
+      "exactTrail": 4,
+      "nativeCached": 3
+    },
+    {
+      "id": 23,
+      "seat": 4,
+      "exactTrail": 11,
+      "nativeCached": 10
+    },
+    {
+      "id": 19,
+      "seat": 1,
+      "exactTrail": 6,
+      "nativeCached": 5
+    },
+    {
+      "id": 19,
+      "seat": 2,
+      "exactTrail": 6,
+      "nativeCached": 5
+    },
+    {
+      "id": 39,
+      "seat": 4,
+      "exactTrail": 4,
+      "nativeCached": 3
+    },
+    {
+      "id": 40,
+      "seat": 2,
+      "exactTrail": 6,
+      "nativeCached": 5
+    },
+    {
+      "id": 40,
+      "seat": 4,
+      "exactTrail": 6,
+      "nativeCached": 5
+    },
+    {
+      "id": 43,
+      "seat": 1,
+      "exactTrail": 5,
+      "nativeCached": 4
+    },
+    {
+      "id": 42,
+      "seat": 3,
+      "exactTrail": 6,
+      "nativeCached": 5
+    },
+    {
+      "id": 49,
+      "seat": 1,
+      "exactTrail": 7,
+      "nativeCached": 6
+    },
+    {
+      "id": 52,
+      "seat": 3,
+      "exactTrail": 6,
+      "nativeCached": 5
+    },
+    {
+      "id": 56,
+      "seat": 2,
+      "exactTrail": 4,
+      "nativeCached": 3
+    },
+    {
+      "id": 58,
+      "seat": 3,
+      "exactTrail": 4,
+      "nativeCached": 3
+    },
+    {
+      "id": 61,
+      "seat": 3,
+      "exactTrail": 8,
+      "nativeCached": 7
+    },
+    {
+      "id": 53,
+      "seat": 2,
+      "exactTrail": 6,
+      "nativeCached": 5
+    },
+    {
+      "id": 53,
+      "seat": 4,
+      "exactTrail": 12,
+      "nativeCached": 10
+    },
+    {
+      "id": 54,
+      "seat": 1,
+      "exactTrail": 7,
+      "nativeCached": 6
+    },
+    {
+      "id": 76,
+      "seat": 4,
+      "exactTrail": 9,
+      "nativeCached": 8
+    },
+    {
+      "id": 84,
+      "seat": 1,
+      "exactTrail": 7,
+      "nativeCached": 6
+    },
+    {
+      "id": 86,
+      "seat": 1,
+      "exactTrail": 9,
+      "nativeCached": 7
+    },
+    {
+      "id": 85,
+      "seat": 1,
+      "exactTrail": 7,
+      "nativeCached": 6
+    },
+    {
+      "id": 85,
+      "seat": 2,
+      "exactTrail": 8,
+      "nativeCached": 7
+    },
+    {
+      "id": 83,
+      "seat": 4,
+      "exactTrail": 6,
+      "nativeCached": 4
+    },
+    {
+      "id": 78,
+      "seat": 2,
+      "exactTrail": 6,
+      "nativeCached": 5
+    },
+    {
+      "id": 88,
+      "seat": 2,
+      "exactTrail": 8,
+      "nativeCached": 7
+    },
+    {
+      "id": 89,
+      "seat": 4,
+      "exactTrail": 4,
+      "nativeCached": 3
+    },
+    {
+      "id": 94,
+      "seat": 3,
+      "exactTrail": 10,
+      "nativeCached": 9
+    },
+    {
+      "id": 95,
+      "seat": 2,
+      "exactTrail": 10,
+      "nativeCached": 9
+    },
+    {
+      "id": 97,
+      "seat": 2,
+      "exactTrail": 8,
+      "nativeCached": 7
+    },
+    {
+      "id": 106,
+      "seat": 4,
+      "exactTrail": 9,
+      "nativeCached": 8
+    },
+    {
+      "id": 100,
+      "seat": 4,
+      "exactTrail": 4,
+      "nativeCached": 3
+    },
+    {
+      "id": 104,
+      "seat": 4,
+      "exactTrail": 9,
+      "nativeCached": 8
+    },
+    {
+      "id": 105,
+      "seat": 4,
+      "exactTrail": 4,
+      "nativeCached": 3
+    },
+    {
+      "id": 111,
+      "seat": 3,
+      "exactTrail": 8,
+      "nativeCached": 7
+    },
+    {
+      "id": 115,
+      "seat": 1,
+      "exactTrail": 4,
+      "nativeCached": 3
+    },
+    {
+      "id": 121,
+      "seat": 1,
+      "exactTrail": 6,
+      "nativeCached": 5
+    },
+    {
+      "id": 118,
+      "seat": 2,
+      "exactTrail": 8,
+      "nativeCached": 7
+    },
+    {
+      "id": 129,
+      "seat": 3,
+      "exactTrail": 4,
+      "nativeCached": 3
+    },
+    {
+      "id": 130,
+      "seat": 4,
+      "exactTrail": 5,
+      "nativeCached": 4
+    },
+    {
+      "id": 136,
+      "seat": 2,
+      "exactTrail": 7,
+      "nativeCached": 6
+    },
+    {
+      "id": 135,
+      "seat": 2,
+      "exactTrail": 9,
+      "nativeCached": 8
+    },
+    {
+      "id": 138,
+      "seat": 2,
+      "exactTrail": 8,
+      "nativeCached": 7
+    },
+    {
+      "id": 144,
+      "seat": 1,
+      "exactTrail": 7,
+      "nativeCached": 6
+    },
+    {
+      "id": 147,
+      "seat": 2,
+      "exactTrail": 8,
+      "nativeCached": 7
+    },
+    {
+      "id": 146,
+      "seat": 4,
+      "exactTrail": 8,
+      "nativeCached": 7
+    },
+    {
+      "id": 145,
+      "seat": 1,
+      "exactTrail": 7,
+      "nativeCached": 6
+    },
+    {
+      "id": 145,
+      "seat": 3,
+      "exactTrail": 7,
+      "nativeCached": 6
+    },
+    {
+      "id": 150,
+      "seat": 1,
+      "exactTrail": 10,
+      "nativeCached": 8
+    },
+    {
+      "id": 154,
+      "seat": 2,
+      "exactTrail": 6,
+      "nativeCached": 5
+    },
+    {
+      "id": 156,
+      "seat": 3,
+      "exactTrail": 9,
+      "nativeCached": 8
+    },
+    {
+      "id": 148,
+      "seat": 2,
+      "exactTrail": 10,
+      "nativeCached": 8
+    },
+    {
+      "id": 153,
+      "seat": 2,
+      "exactTrail": 6,
+      "nativeCached": 5
+    },
+    {
+      "id": 153,
+      "seat": 3,
+      "exactTrail": 10,
+      "nativeCached": 9
+    },
+    {
+      "id": 167,
+      "seat": 3,
+      "exactTrail": 6,
+      "nativeCached": 5
+    },
+    {
+      "id": 165,
+      "seat": 2,
+      "exactTrail": 6,
+      "nativeCached": 5
+    },
+    {
+      "id": 191,
+      "seat": 3,
+      "exactTrail": 9,
+      "nativeCached": 8
+    },
+    {
+      "id": 201,
+      "seat": 3,
+      "exactTrail": 7,
+      "nativeCached": 6
+    },
+    {
+      "id": 196,
+      "seat": 2,
+      "exactTrail": 4,
+      "nativeCached": 3
+    },
+    {
+      "id": 196,
+      "seat": 3,
+      "exactTrail": 5,
+      "nativeCached": 4
+    },
+    {
+      "id": 200,
+      "seat": 4,
+      "exactTrail": 8,
+      "nativeCached": 7
+    },
+    {
+      "id": 193,
+      "seat": 4,
+      "exactTrail": 7,
+      "nativeCached": 6
+    },
+    {
+      "id": 205,
+      "seat": 2,
+      "exactTrail": 6,
+      "nativeCached": 5
+    },
+    {
+      "id": 213,
+      "seat": 2,
+      "exactTrail": 8,
+      "nativeCached": 6
+    },
+    {
+      "id": 216,
+      "seat": 3,
+      "exactTrail": 9,
+      "nativeCached": 8
+    },
+    {
+      "id": 218,
+      "seat": 1,
+      "exactTrail": 3,
+      "nativeCached": 2
+    },
+    {
+      "id": 218,
+      "seat": 3,
+      "exactTrail": 9,
+      "nativeCached": 8
+    },
+    {
+      "id": 210,
+      "seat": 2,
+      "exactTrail": 7,
+      "nativeCached": 6
+    },
+    {
+      "id": 221,
+      "seat": 4,
+      "exactTrail": 6,
+      "nativeCached": 5
+    },
+    {
+      "id": 224,
+      "seat": 1,
+      "exactTrail": 8,
+      "nativeCached": 7
+    },
+    {
+      "id": 220,
+      "seat": 2,
+      "exactTrail": 8,
+      "nativeCached": 7
+    },
+    {
+      "id": 232,
+      "seat": 2,
+      "exactTrail": 7,
+      "nativeCached": 6
+    },
+    {
+      "id": 235,
+      "seat": 4,
+      "exactTrail": 10,
+      "nativeCached": 9
+    },
+    {
+      "id": 240,
+      "seat": 1,
+      "exactTrail": 9,
+      "nativeCached": 8
+    },
+    {
+      "id": 241,
+      "seat": 3,
+      "exactTrail": 7,
+      "nativeCached": 6
+    },
+    {
+      "id": 242,
+      "seat": 1,
+      "exactTrail": 8,
+      "nativeCached": 6
+    },
+    {
+      "id": 245,
+      "seat": 4,
+      "exactTrail": 4,
+      "nativeCached": 3
+    },
+    {
+      "id": 249,
+      "seat": 4,
+      "exactTrail": 5,
+      "nativeCached": 4
+    },
+    {
+      "id": 248,
+      "seat": 1,
+      "exactTrail": 9,
+      "nativeCached": 8
+    },
+    {
+      "id": 262,
+      "seat": 2,
+      "exactTrail": 8,
+      "nativeCached": 7
+    },
+    {
+      "id": 257,
+      "seat": 1,
+      "exactTrail": 7,
+      "nativeCached": 6
+    },
+    {
+      "id": 259,
+      "seat": 1,
+      "exactTrail": 7,
+      "nativeCached": 6
+    },
+    {
+      "id": 263,
+      "seat": 3,
+      "exactTrail": 8,
+      "nativeCached": 7
+    },
+    {
+      "id": 266,
+      "seat": 1,
+      "exactTrail": 7,
+      "nativeCached": 6
+    },
+    {
+      "id": 271,
+      "seat": 1,
+      "exactTrail": 6,
+      "nativeCached": 5
+    },
+    {
+      "id": 271,
+      "seat": 3,
+      "exactTrail": 8,
+      "nativeCached": 6
+    },
+    {
+      "id": 282,
+      "seat": 2,
+      "exactTrail": 8,
+      "nativeCached": 7
+    },
+    {
+      "id": 294,
+      "seat": 2,
+      "exactTrail": 7,
+      "nativeCached": 6
+    },
+    {
+      "id": 292,
+      "seat": 2,
+      "exactTrail": 6,
+      "nativeCached": 5
+    },
+    {
+      "id": 292,
+      "seat": 4,
+      "exactTrail": 6,
+      "nativeCached": 4
+    },
+    {
+      "id": 283,
+      "seat": 1,
+      "exactTrail": 7,
+      "nativeCached": 6
+    },
+    {
+      "id": 287,
+      "seat": 4,
+      "exactTrail": 9,
+      "nativeCached": 8
+    },
+    {
+      "id": 307,
+      "seat": 1,
+      "exactTrail": 9,
+      "nativeCached": 8
+    },
+    {
+      "id": 307,
+      "seat": 2,
+      "exactTrail": 7,
+      "nativeCached": 6
+    },
+    {
+      "id": 307,
+      "seat": 3,
+      "exactTrail": 5,
+      "nativeCached": 4
+    },
+    {
+      "id": 311,
+      "seat": 1,
+      "exactTrail": 9,
+      "nativeCached": 8
+    },
+    {
+      "id": 312,
+      "seat": 1,
+      "exactTrail": 7,
+      "nativeCached": 6
+    },
+    {
+      "id": 312,
+      "seat": 2,
+      "exactTrail": 9,
+      "nativeCached": 8
+    },
+    {
+      "id": 309,
+      "seat": 3,
+      "exactTrail": 7,
+      "nativeCached": 6
+    },
+    {
+      "id": 326,
+      "seat": 1,
+      "exactTrail": 6,
+      "nativeCached": 5
+    },
+    {
+      "id": 325,
+      "seat": 1,
+      "exactTrail": 8,
+      "nativeCached": 7
+    },
+    {
+      "id": 322,
+      "seat": 2,
+      "exactTrail": 4,
+      "nativeCached": 3
+    },
+    {
+      "id": 333,
+      "seat": 2,
+      "exactTrail": 7,
+      "nativeCached": 6
+    },
+    {
+      "id": 330,
+      "seat": 1,
+      "exactTrail": 4,
+      "nativeCached": 3
+    },
+    {
+      "id": 344,
+      "seat": 1,
+      "exactTrail": 6,
+      "nativeCached": 5
+    },
+    {
+      "id": 344,
+      "seat": 2,
+      "exactTrail": 6,
+      "nativeCached": 5
+    },
+    {
+      "id": 348,
+      "seat": 1,
+      "exactTrail": 6,
+      "nativeCached": 5
+    },
+    {
+      "id": 351,
+      "seat": 3,
+      "exactTrail": 6,
+      "nativeCached": 4
+    },
+    {
+      "id": 352,
+      "seat": 2,
+      "exactTrail": 8,
+      "nativeCached": 7
+    },
+    {
+      "id": 352,
+      "seat": 3,
+      "exactTrail": 7,
+      "nativeCached": 6
+    },
+    {
+      "id": 353,
+      "seat": 4,
+      "exactTrail": 7,
+      "nativeCached": 6
+    },
+    {
+      "id": 347,
+      "seat": 4,
+      "exactTrail": 6,
+      "nativeCached": 5
+    },
+    {
+      "id": 362,
+      "seat": 1,
+      "exactTrail": 4,
+      "nativeCached": 3
+    },
+    {
+      "id": 369,
+      "seat": 2,
+      "exactTrail": 6,
+      "nativeCached": 5
+    },
+    {
+      "id": 368,
+      "seat": 1,
+      "exactTrail": 7,
+      "nativeCached": 5
+    },
+    {
+      "id": 373,
+      "seat": 2,
+      "exactTrail": 4,
+      "nativeCached": 3
+    },
+    {
+      "id": 373,
+      "seat": 3,
+      "exactTrail": 6,
+      "nativeCached": 5
+    },
+    {
+      "id": 379,
+      "seat": 1,
+      "exactTrail": 10,
+      "nativeCached": 9
+    },
+    {
+      "id": 383,
+      "seat": 4,
+      "exactTrail": 5,
+      "nativeCached": 4
+    },
+    {
+      "id": 390,
+      "seat": 1,
+      "exactTrail": 8,
+      "nativeCached": 7
+    },
+    {
+      "id": 387,
+      "seat": 2,
+      "exactTrail": 5,
+      "nativeCached": 4
+    },
+    {
+      "id": 387,
+      "seat": 3,
+      "exactTrail": 6,
+      "nativeCached": 5
+    },
+    {
+      "id": 395,
+      "seat": 4,
+      "exactTrail": 9,
+      "nativeCached": 8
+    },
+    {
+      "id": 394,
+      "seat": 1,
+      "exactTrail": 5,
+      "nativeCached": 4
+    },
+    {
+      "id": 398,
+      "seat": 1,
+      "exactTrail": 9,
+      "nativeCached": 8
+    },
+    {
+      "id": 401,
+      "seat": 4,
+      "exactTrail": 8,
+      "nativeCached": 7
+    },
+    {
+      "id": 406,
+      "seat": 4,
+      "exactTrail": 8,
+      "nativeCached": 7
+    },
+    {
+      "id": 402,
+      "seat": 2,
+      "exactTrail": 7,
+      "nativeCached": 6
+    },
+    {
+      "id": 407,
+      "seat": 4,
+      "exactTrail": 5,
+      "nativeCached": 4
+    },
+    {
+      "id": 412,
+      "seat": 4,
+      "exactTrail": 7,
+      "nativeCached": 6
+    },
+    {
+      "id": 414,
+      "seat": 1,
+      "exactTrail": 6,
+      "nativeCached": 5
+    },
+    {
+      "id": 414,
+      "seat": 2,
+      "exactTrail": 7,
+      "nativeCached": 6
+    },
+    {
+      "id": 418,
+      "seat": 2,
+      "exactTrail": 7,
+      "nativeCached": 6
+    },
+    {
+      "id": 422,
+      "seat": 1,
+      "exactTrail": 9,
+      "nativeCached": 8
+    },
+    {
+      "id": 421,
+      "seat": 4,
+      "exactTrail": 10,
+      "nativeCached": 9
+    },
+    {
+      "id": 430,
+      "seat": 2,
+      "exactTrail": 6,
+      "nativeCached": 5
+    },
+    {
+      "id": 431,
+      "seat": 2,
+      "exactTrail": 4,
+      "nativeCached": 3
+    },
+    {
+      "id": 436,
+      "seat": 2,
+      "exactTrail": 5,
+      "nativeCached": 4
+    },
+    {
+      "id": 437,
+      "seat": 1,
+      "exactTrail": 7,
+      "nativeCached": 6
+    },
+    {
+      "id": 437,
+      "seat": 3,
+      "exactTrail": 9,
+      "nativeCached": 8
+    },
+    {
+      "id": 440,
+      "seat": 1,
+      "exactTrail": 9,
+      "nativeCached": 7
+    },
+    {
+      "id": 455,
+      "seat": 3,
+      "exactTrail": 7,
+      "nativeCached": 6
+    },
+    {
+      "id": 460,
+      "seat": 4,
+      "exactTrail": 5,
+      "nativeCached": 4
+    },
+    {
+      "id": 463,
+      "seat": 3,
+      "exactTrail": 3,
+      "nativeCached": 2
+    },
+    {
+      "id": 458,
+      "seat": 4,
+      "exactTrail": 5,
+      "nativeCached": 4
+    },
+    {
+      "id": 446,
+      "seat": 4,
+      "exactTrail": 9,
+      "nativeCached": 8
+    },
+    {
+      "id": 470,
+      "seat": 1,
+      "exactTrail": 6,
+      "nativeCached": 5
+    },
+    {
+      "id": 475,
+      "seat": 3,
+      "exactTrail": 6,
+      "nativeCached": 5
+    },
+    {
+      "id": 476,
+      "seat": 1,
+      "exactTrail": 7,
+      "nativeCached": 6
+    },
+    {
+      "id": 474,
+      "seat": 2,
+      "exactTrail": 8,
+      "nativeCached": 7
+    },
+    {
+      "id": 483,
+      "seat": 3,
+      "exactTrail": 8,
+      "nativeCached": 7
+    },
+    {
+      "id": 482,
+      "seat": 1,
+      "exactTrail": 6,
+      "nativeCached": 5
+    },
+    {
+      "id": 482,
+      "seat": 3,
+      "exactTrail": 9,
+      "nativeCached": 8
+    },
+    {
+      "id": 487,
+      "seat": 3,
+      "exactTrail": 6,
+      "nativeCached": 5
+    },
+    {
+      "id": 505,
+      "seat": 3,
+      "exactTrail": 9,
+      "nativeCached": 8
+    },
+    {
+      "id": 511,
+      "seat": 2,
+      "exactTrail": 8,
+      "nativeCached": 7
+    },
+    {
+      "id": 508,
+      "seat": 2,
+      "exactTrail": 6,
+      "nativeCached": 5
+    },
+    {
+      "id": 518,
+      "seat": 1,
+      "exactTrail": 4,
+      "nativeCached": 3
+    },
+    {
+      "id": 521,
+      "seat": 2,
+      "exactTrail": 5,
+      "nativeCached": 4
+    },
+    {
+      "id": 520,
+      "seat": 2,
+      "exactTrail": 10,
+      "nativeCached": 9
+    },
+    {
+      "id": 536,
+      "seat": 1,
+      "exactTrail": 7,
+      "nativeCached": 5
+    },
+    {
+      "id": 542,
+      "seat": 3,
+      "exactTrail": 9,
+      "nativeCached": 8
+    },
+    {
+      "id": 549,
+      "seat": 2,
+      "exactTrail": 5,
+      "nativeCached": 4
+    },
+    {
+      "id": 554,
+      "seat": 1,
+      "exactTrail": 7,
+      "nativeCached": 6
+    },
+    {
+      "id": 562,
+      "seat": 4,
+      "exactTrail": 9,
+      "nativeCached": 8
+    },
+    {
+      "id": 563,
+      "seat": 4,
+      "exactTrail": 7,
+      "nativeCached": 6
+    },
+    {
+      "id": 564,
+      "seat": 3,
+      "exactTrail": 11,
+      "nativeCached": 10
+    },
+    {
+      "id": 561,
+      "seat": 2,
+      "exactTrail": 10,
+      "nativeCached": 9
+    },
+    {
+      "id": 565,
+      "seat": 1,
+      "exactTrail": 10,
+      "nativeCached": 9
+    },
+    {
+      "id": 579,
+      "seat": 2,
+      "exactTrail": 7,
+      "nativeCached": 6
+    },
+    {
+      "id": 575,
+      "seat": 4,
+      "exactTrail": 10,
+      "nativeCached": 9
+    },
+    {
+      "id": 588,
+      "seat": 3,
+      "exactTrail": 6,
+      "nativeCached": 5
+    },
+    {
+      "id": 591,
+      "seat": 3,
+      "exactTrail": 5,
+      "nativeCached": 4
+    },
+    {
+      "id": 592,
+      "seat": 2,
+      "exactTrail": 6,
+      "nativeCached": 5
+    },
+    {
+      "id": 603,
+      "seat": 2,
+      "exactTrail": 6,
+      "nativeCached": 5
+    },
+    {
+      "id": 605,
+      "seat": 4,
+      "exactTrail": 6,
+      "nativeCached": 5
+    },
+    {
+      "id": 607,
+      "seat": 1,
+      "exactTrail": 9,
+      "nativeCached": 8
+    },
+    {
+      "id": 608,
+      "seat": 4,
+      "exactTrail": 7,
+      "nativeCached": 6
+    },
+    {
+      "id": 615,
+      "seat": 2,
+      "exactTrail": 4,
+      "nativeCached": 3
+    },
+    {
+      "id": 613,
+      "seat": 1,
+      "exactTrail": 6,
+      "nativeCached": 5
+    },
+    {
+      "id": 619,
+      "seat": 1,
+      "exactTrail": 4,
+      "nativeCached": 3
+    },
+    {
+      "id": 633,
+      "seat": 2,
+      "exactTrail": 5,
+      "nativeCached": 4
+    },
+    {
+      "id": 634,
+      "seat": 2,
+      "exactTrail": 7,
+      "nativeCached": 6
+    },
+    {
+      "id": 635,
+      "seat": 4,
+      "exactTrail": 5,
+      "nativeCached": 4
+    },
+    {
+      "id": 636,
+      "seat": 2,
+      "exactTrail": 6,
+      "nativeCached": 4
+    },
+    {
+      "id": 643,
+      "seat": 1,
+      "exactTrail": 4,
+      "nativeCached": 3
+    },
+    {
+      "id": 646,
+      "seat": 2,
+      "exactTrail": 8,
+      "nativeCached": 7
+    },
+    {
+      "id": 644,
+      "seat": 2,
+      "exactTrail": 7,
+      "nativeCached": 6
+    },
+    {
+      "id": 652,
+      "seat": 2,
+      "exactTrail": 5,
+      "nativeCached": 4
+    },
+    {
+      "id": 649,
+      "seat": 1,
+      "exactTrail": 6,
+      "nativeCached": 5
+    },
+    {
+      "id": 655,
+      "seat": 1,
+      "exactTrail": 6,
+      "nativeCached": 4
+    },
+    {
+      "id": 656,
+      "seat": 1,
+      "exactTrail": 4,
+      "nativeCached": 3
+    },
+    {
+      "id": 661,
+      "seat": 1,
+      "exactTrail": 7,
+      "nativeCached": 6
+    },
+    {
+      "id": 664,
+      "seat": 2,
+      "exactTrail": 7,
+      "nativeCached": 6
+    },
+    {
+      "id": 670,
+      "seat": 2,
+      "exactTrail": 9,
+      "nativeCached": 8
+    },
+    {
+      "id": 671,
+      "seat": 3,
+      "exactTrail": 6,
+      "nativeCached": 5
+    },
+    {
+      "id": 676,
+      "seat": 2,
+      "exactTrail": 7,
+      "nativeCached": 6
+    },
+    {
+      "id": 677,
+      "seat": 3,
+      "exactTrail": 6,
+      "nativeCached": 4
+    },
+    {
+      "id": 674,
+      "seat": 4,
+      "exactTrail": 6,
+      "nativeCached": 5
+    },
+    {
+      "id": 680,
+      "seat": 4,
+      "exactTrail": 8,
+      "nativeCached": 6
+    },
+    {
+      "id": 685,
+      "seat": 1,
+      "exactTrail": 4,
+      "nativeCached": 3
+    },
+    {
+      "id": 682,
+      "seat": 1,
+      "exactTrail": 6,
+      "nativeCached": 5
+    },
+    {
+      "id": 691,
+      "seat": 3,
+      "exactTrail": 6,
+      "nativeCached": 5
+    },
+    {
+      "id": 692,
+      "seat": 4,
+      "exactTrail": 4,
+      "nativeCached": 3
+    },
+    {
+      "id": 712,
+      "seat": 4,
+      "exactTrail": 7,
+      "nativeCached": 6
+    },
+    {
+      "id": 709,
+      "seat": 1,
+      "exactTrail": 6,
+      "nativeCached": 5
+    },
+    {
+      "id": 719,
+      "seat": 3,
+      "exactTrail": 7,
+      "nativeCached": 6
+    },
+    {
+      "id": 728,
+      "seat": 1,
+      "exactTrail": 6,
+      "nativeCached": 5
+    },
+    {
+      "id": 735,
+      "seat": 3,
+      "exactTrail": 6,
+      "nativeCached": 5
+    },
+    {
+      "id": 733,
+      "seat": 3,
+      "exactTrail": 11,
+      "nativeCached": 10
+    },
+    {
+      "id": 736,
+      "seat": 4,
+      "exactTrail": 6,
+      "nativeCached": 5
+    },
+    {
+      "id": 741,
+      "seat": 3,
+      "exactTrail": 8,
+      "nativeCached": 7
+    },
+    {
+      "id": 739,
+      "seat": 3,
+      "exactTrail": 12,
+      "nativeCached": 11
+    },
+    {
+      "id": 748,
+      "seat": 2,
+      "exactTrail": 7,
+      "nativeCached": 6
+    },
+    {
+      "id": 756,
+      "seat": 2,
+      "exactTrail": 6,
+      "nativeCached": 5
+    },
+    {
+      "id": 760,
+      "seat": 4,
+      "exactTrail": 8,
+      "nativeCached": 7
+    },
+    {
+      "id": 771,
+      "seat": 3,
+      "exactTrail": 5,
+      "nativeCached": 4
+    },
+    {
+      "id": 769,
+      "seat": 3,
+      "exactTrail": 5,
+      "nativeCached": 4
+    },
+    {
+      "id": 779,
+      "seat": 4,
+      "exactTrail": 9,
+      "nativeCached": 8
+    },
+    {
+      "id": 784,
+      "seat": 2,
+      "exactTrail": 6,
+      "nativeCached": 5
+    },
+    {
+      "id": 783,
+      "seat": 2,
+      "exactTrail": 8,
+      "nativeCached": 7
+    },
+    {
+      "id": 781,
+      "seat": 3,
+      "exactTrail": 7,
+      "nativeCached": 6
+    },
+    {
+      "id": 803,
+      "seat": 4,
+      "exactTrail": 13,
+      "nativeCached": 12
+    },
+    {
+      "id": 800,
+      "seat": 4,
+      "exactTrail": 8,
+      "nativeCached": 7
+    },
+    {
+      "id": 807,
+      "seat": 3,
+      "exactTrail": 7,
+      "nativeCached": 6
+    },
+    {
+      "id": 811,
+      "seat": 3,
+      "exactTrail": 5,
+      "nativeCached": 4
+    },
+    {
+      "id": 817,
+      "seat": 1,
+      "exactTrail": 7,
+      "nativeCached": 6
+    },
+    {
+      "id": 823,
+      "seat": 4,
+      "exactTrail": 6,
+      "nativeCached": 5
+    },
+    {
+      "id": 826,
+      "seat": 4,
+      "exactTrail": 9,
+      "nativeCached": 8
+    },
+    {
+      "id": 832,
+      "seat": 2,
+      "exactTrail": 6,
+      "nativeCached": 5
+    },
+    {
+      "id": 836,
+      "seat": 4,
+      "exactTrail": 7,
+      "nativeCached": 6
+    },
+    {
+      "id": 840,
+      "seat": 2,
+      "exactTrail": 4,
+      "nativeCached": 3
+    },
+    {
+      "id": 848,
+      "seat": 1,
+      "exactTrail": 9,
+      "nativeCached": 8
+    },
+    {
+      "id": 848,
+      "seat": 4,
+      "exactTrail": 9,
+      "nativeCached": 8
+    },
+    {
+      "id": 851,
+      "seat": 4,
+      "exactTrail": 8,
+      "nativeCached": 7
+    },
+    {
+      "id": 858,
+      "seat": 1,
+      "exactTrail": 11,
+      "nativeCached": 10
+    },
+    {
+      "id": 864,
+      "seat": 1,
+      "exactTrail": 6,
+      "nativeCached": 5
+    },
+    {
+      "id": 866,
+      "seat": 4,
+      "exactTrail": 5,
+      "nativeCached": 4
+    },
+    {
+      "id": 865,
+      "seat": 3,
+      "exactTrail": 6,
+      "nativeCached": 5
+    },
+    {
+      "id": 872,
+      "seat": 1,
+      "exactTrail": 7,
+      "nativeCached": 6
+    },
+    {
+      "id": 873,
+      "seat": 1,
+      "exactTrail": 12,
+      "nativeCached": 11
+    },
+    {
+      "id": 877,
+      "seat": 2,
+      "exactTrail": 8,
+      "nativeCached": 7
+    },
+    {
+      "id": 878,
+      "seat": 1,
+      "exactTrail": 11,
+      "nativeCached": 10
+    },
+    {
+      "id": 883,
+      "seat": 1,
+      "exactTrail": 6,
+      "nativeCached": 5
+    },
+    {
+      "id": 891,
+      "seat": 2,
+      "exactTrail": 10,
+      "nativeCached": 8
+    },
+    {
+      "id": 896,
+      "seat": 1,
+      "exactTrail": 8,
+      "nativeCached": 7
+    },
+    {
+      "id": 897,
+      "seat": 3,
+      "exactTrail": 10,
+      "nativeCached": 9
+    },
+    {
+      "id": 900,
+      "seat": 1,
+      "exactTrail": 5,
+      "nativeCached": 4
+    },
+    {
+      "id": 901,
+      "seat": 3,
+      "exactTrail": 7,
+      "nativeCached": 6
+    },
+    {
+      "id": 905,
+      "seat": 4,
+      "exactTrail": 5,
+      "nativeCached": 4
+    },
+    {
+      "id": 911,
+      "seat": 3,
+      "exactTrail": 12,
+      "nativeCached": 11
+    },
+    {
+      "id": 908,
+      "seat": 1,
+      "exactTrail": 9,
+      "nativeCached": 8
+    },
+    {
+      "id": 913,
+      "seat": 3,
+      "exactTrail": 10,
+      "nativeCached": 9
+    },
+    {
+      "id": 916,
+      "seat": 4,
+      "exactTrail": 9,
+      "nativeCached": 8
+    },
+    {
+      "id": 917,
+      "seat": 1,
+      "exactTrail": 7,
+      "nativeCached": 6
+    },
+    {
+      "id": 917,
+      "seat": 3,
+      "exactTrail": 7,
+      "nativeCached": 6
+    },
+    {
+      "id": 919,
+      "seat": 1,
+      "exactTrail": 6,
+      "nativeCached": 5
+    },
+    {
+      "id": 933,
+      "seat": 3,
+      "exactTrail": 6,
+      "nativeCached": 5
+    },
+    {
+      "id": 940,
+      "seat": 4,
+      "exactTrail": 9,
+      "nativeCached": 8
+    },
+    {
+      "id": 947,
+      "seat": 2,
+      "exactTrail": 8,
+      "nativeCached": 7
+    },
+    {
+      "id": 947,
+      "seat": 3,
+      "exactTrail": 9,
+      "nativeCached": 8
+    },
+    {
+      "id": 950,
+      "seat": 1,
+      "exactTrail": 8,
+      "nativeCached": 7
+    },
+    {
+      "id": 952,
+      "seat": 2,
+      "exactTrail": 8,
+      "nativeCached": 7
+    },
+    {
+      "id": 968,
+      "seat": 4,
+      "exactTrail": 9,
+      "nativeCached": 8
+    },
+    {
+      "id": 966,
+      "seat": 1,
+      "exactTrail": 6,
+      "nativeCached": 5
+    },
+    {
+      "id": 983,
+      "seat": 3,
+      "exactTrail": 7,
+      "nativeCached": 6
+    },
+    {
+      "id": 988,
+      "seat": 4,
+      "exactTrail": 6,
+      "nativeCached": 5
+    },
+    {
+      "id": 987,
+      "seat": 1,
+      "exactTrail": 4,
+      "nativeCached": 3
+    },
+    {
+      "id": 989,
+      "seat": 1,
+      "exactTrail": 12,
+      "nativeCached": 11
+    },
+    {
+      "id": 991,
+      "seat": 3,
+      "exactTrail": 7,
+      "nativeCached": 6
+    },
+    {
+      "id": 997,
+      "seat": 4,
+      "exactTrail": 6,
+      "nativeCached": 5
+    },
+    {
+      "id": 1001,
+      "seat": 4,
+      "exactTrail": 7,
+      "nativeCached": 6
+    },
+    {
+      "id": 1003,
+      "seat": 1,
+      "exactTrail": 6,
+      "nativeCached": 5
+    },
+    {
+      "id": 1002,
+      "seat": 1,
+      "exactTrail": 6,
+      "nativeCached": 5
+    },
+    {
+      "id": 1013,
+      "seat": 4,
+      "exactTrail": 6,
+      "nativeCached": 5
+    },
+    {
+      "id": 1010,
+      "seat": 4,
+      "exactTrail": 7,
+      "nativeCached": 6
+    },
+    {
+      "id": 1014,
+      "seat": 1,
+      "exactTrail": 6,
+      "nativeCached": 5
+    },
+    {
+      "id": 1017,
+      "seat": 2,
+      "exactTrail": 5,
+      "nativeCached": 4
+    },
+    {
+      "id": 1018,
+      "seat": 2,
+      "exactTrail": 4,
+      "nativeCached": 3
+    },
+    {
+      "id": 1020,
+      "seat": 2,
+      "exactTrail": 10,
+      "nativeCached": 8
+    },
+    {
+      "id": 1019,
+      "seat": 2,
+      "exactTrail": 7,
+      "nativeCached": 6
+    },
+    {
+      "id": 1019,
+      "seat": 3,
+      "exactTrail": 8,
+      "nativeCached": 7
+    },
+    {
+      "id": 1023,
+      "seat": 3,
+      "exactTrail": 7,
+      "nativeCached": 6
+    },
+    {
+      "id": 1028,
+      "seat": 1,
+      "exactTrail": 8,
+      "nativeCached": 7
+    },
+    {
+      "id": 1033,
+      "seat": 4,
+      "exactTrail": 6,
+      "nativeCached": 5
+    },
+    {
+      "id": 1040,
+      "seat": 1,
+      "exactTrail": 6,
+      "nativeCached": 5
+    },
+    {
+      "id": 1045,
+      "seat": 4,
+      "exactTrail": 6,
+      "nativeCached": 5
+    },
+    {
+      "id": 1046,
+      "seat": 4,
+      "exactTrail": 6,
+      "nativeCached": 5
+    },
+    {
+      "id": 1059,
+      "seat": 1,
+      "exactTrail": 7,
+      "nativeCached": 6
+    },
+    {
+      "id": 1063,
+      "seat": 2,
+      "exactTrail": 8,
+      "nativeCached": 7
+    },
+    {
+      "id": 1075,
+      "seat": 2,
+      "exactTrail": 7,
+      "nativeCached": 6
+    },
+    {
+      "id": 1083,
+      "seat": 3,
+      "exactTrail": 7,
+      "nativeCached": 6
+    },
+    {
+      "id": 1086,
+      "seat": 2,
+      "exactTrail": 6,
+      "nativeCached": 5
+    },
+    {
+      "id": 1087,
+      "seat": 3,
+      "exactTrail": 6,
+      "nativeCached": 5
+    },
+    {
+      "id": 1096,
+      "seat": 4,
+      "exactTrail": 3,
+      "nativeCached": 2
+    },
+    {
+      "id": 1098,
+      "seat": 2,
+      "exactTrail": 6,
+      "nativeCached": 5
+    },
+    {
+      "id": 1103,
+      "seat": 2,
+      "exactTrail": 4,
+      "nativeCached": 3
+    },
+    {
+      "id": 1106,
+      "seat": 1,
+      "exactTrail": 8,
+      "nativeCached": 7
+    },
+    {
+      "id": 1110,
+      "seat": 1,
+      "exactTrail": 6,
+      "nativeCached": 5
+    },
+    {
+      "id": 1115,
+      "seat": 4,
+      "exactTrail": 5,
+      "nativeCached": 4
+    },
+    {
+      "id": 1114,
+      "seat": 2,
+      "exactTrail": 6,
+      "nativeCached": 5
+    },
+    {
+      "id": 1114,
+      "seat": 4,
+      "exactTrail": 3,
+      "nativeCached": 2
+    },
+    {
+      "id": 1113,
+      "seat": 3,
+      "exactTrail": 6,
+      "nativeCached": 5
+    },
+    {
+      "id": 1111,
+      "seat": 3,
+      "exactTrail": 11,
+      "nativeCached": 10
+    },
+    {
+      "id": 1117,
+      "seat": 1,
+      "exactTrail": 8,
+      "nativeCached": 7
+    },
+    {
+      "id": 1120,
+      "seat": 1,
+      "exactTrail": 6,
+      "nativeCached": 5
+    },
+    {
+      "id": 1122,
+      "seat": 2,
+      "exactTrail": 3,
+      "nativeCached": 2
+    },
+    {
+      "id": 1130,
+      "seat": 4,
+      "exactTrail": 9,
+      "nativeCached": 8
+    },
+    {
+      "id": 1131,
+      "seat": 3,
+      "exactTrail": 5,
+      "nativeCached": 4
+    },
+    {
+      "id": 1132,
+      "seat": 1,
+      "exactTrail": 11,
+      "nativeCached": 10
+    },
+    {
+      "id": 1132,
+      "seat": 2,
+      "exactTrail": 11,
+      "nativeCached": 10
+    },
+    {
+      "id": 1140,
+      "seat": 1,
+      "exactTrail": 5,
+      "nativeCached": 4
+    },
+    {
+      "id": 1134,
+      "seat": 1,
+      "exactTrail": 9,
+      "nativeCached": 8
+    },
+    {
+      "id": 1141,
+      "seat": 3,
+      "exactTrail": 4,
+      "nativeCached": 3
+    },
+    {
+      "id": 1144,
+      "seat": 1,
+      "exactTrail": 6,
+      "nativeCached": 5
+    },
+    {
+      "id": 1150,
+      "seat": 4,
+      "exactTrail": 5,
+      "nativeCached": 4
+    },
+    {
+      "id": 1147,
+      "seat": 1,
+      "exactTrail": 7,
+      "nativeCached": 6
+    },
+    {
+      "id": 1148,
+      "seat": 1,
+      "exactTrail": 7,
+      "nativeCached": 6
+    },
+    {
+      "id": 1156,
+      "seat": 4,
+      "exactTrail": 8,
+      "nativeCached": 7
+    },
+    {
+      "id": 1161,
+      "seat": 2,
+      "exactTrail": 7,
+      "nativeCached": 6
+    },
+    {
+      "id": 1169,
+      "seat": 4,
+      "exactTrail": 8,
+      "nativeCached": 7
+    },
+    {
+      "id": 1174,
+      "seat": 4,
+      "exactTrail": 3,
+      "nativeCached": 2
+    },
+    {
+      "id": 1181,
+      "seat": 4,
+      "exactTrail": 8,
+      "nativeCached": 7
+    },
+    {
+      "id": 1187,
+      "seat": 4,
+      "exactTrail": 6,
+      "nativeCached": 5
+    },
+    {
+      "id": 1189,
+      "seat": 1,
+      "exactTrail": 5,
+      "nativeCached": 4
+    },
+    {
+      "id": 1189,
+      "seat": 3,
+      "exactTrail": 5,
+      "nativeCached": 4
+    },
+    {
+      "id": 1194,
+      "seat": 3,
+      "exactTrail": 11,
+      "nativeCached": 10
+    },
+    {
+      "id": 1197,
+      "seat": 3,
+      "exactTrail": 8,
+      "nativeCached": 7
+    },
+    {
+      "id": 1196,
+      "seat": 1,
+      "exactTrail": 8,
+      "nativeCached": 7
+    }
+  ]
+}

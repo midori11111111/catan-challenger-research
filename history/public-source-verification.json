@@ -1,0 +1,26 @@
+[
+  {
+    "file": "engine.js",
+    "matchesPublic": true,
+    "publicSha256": "3282fbea186a39c0c7900d4de700a04124908facfe930fb4015d5b689edaabb2",
+    "bytes": 291815
+  },
+  {
+    "file": "app.js",
+    "matchesPublic": true,
+    "publicSha256": "6c2af7d282d86d02836c587d0009ca22e83aebb3c4146236976774f60c903966",
+    "bytes": 87574
+  },
+  {
+    "file": "setup-learning-model.js",
+    "matchesPublic": true,
+    "publicSha256": "2b35eac8d7c97949bfeef062f0a55ca6a9f0a0274d823f9731919b616312a470",
+    "bytes": 234617
+  },
+  {
+    "file": "setup-learning.js",
+    "matchesPublic": true,
+    "publicSha256": "30c9be8b8c599c522c5715db1846726a0927660b9ef68c72a587d3aaba4d79d2",
+    "bytes": 14747
+  }
+]
